@@ -57,6 +57,7 @@ A reasonable invocation is
 	ipython predictor8big.py all4 300 0.15
 
 or
+
 	ipython predictor8big.py bio 300 0.15
 
 this is pulling a sample of the data and show you the results only if the prediction is above the threshold.   If you see nothing, they
