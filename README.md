@@ -12,7 +12,7 @@ There are four type
  
 The data is stored in two places. 
 
-1. The configuration data, the rss feed input data and model data is stored on a publicly readable oneDrive site.  The url for this is  [http://1drv.ms/1PCOT8I](http://1drv.ms/1PCOT8I) 
+1. The configuration data, the rss feed input data and model data is stored on a publicly readable oneDrive site.  The url for this is  [http://1drv.ms/1PCOT8l](http://1drv.ms/1PCOT8l) (you may need to cut this and paste it into your browser)
 2. The oneDrive files are ok for download from the browser, but not as efficient for program level access.  So the programs here read the files from an public, read-only account "http://esciencegroup.blob.core.windows.net/scimlpublic" The code for reading the files is included in the source codes.  
 
 ##doc\_analysis\_final.py
